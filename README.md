@@ -48,6 +48,8 @@ Browser extension allowing you to pass all the NetAcad quizzes
 2. Use one of following options:
 - Click on quiz question and the right option(s) should be selected automatically
 - Hover over the answers while holding the `Ctrl` button and the right option(s) should select automatically
+- Clicking videos/tabs/accordions/page tracer resources runs the related helper automation
+- Submit popups/notify dialogs are closed automatically when NetAcad shows a close button
 
 ![demo.gif](assets/videos/demo.gif)
 ![demo-hover.gif](assets/videos/demo-hover.gif)
